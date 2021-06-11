@@ -23,6 +23,16 @@ export default {
         name: 'Rudi',
         age: 12,
       },
+      {
+        id: 3,
+        name: 'Jimmy',
+        age: 12,
+      },
+      {
+        id: 4,
+        name: 'Tommy',
+        age: 12,
+      },
     ])
 
     return {
