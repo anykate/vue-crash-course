@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import Pets from '@/components/Pets.vue'
+import Pets from '@/components/Pets'
 import { reactive } from 'vue'
 export default {
   name: "Home",
